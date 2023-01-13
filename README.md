@@ -2,6 +2,7 @@
 - 👀 I’m interested in anything software development.
 - 🌱 I currently work for the almighty Ohanafy! Redefining the craft-beverage industry! 
 - 📫 You can email me at riskgrant@gmail.com
+- 👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/grantrisk/)
 
 <!---
 grantrisk/grantrisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
