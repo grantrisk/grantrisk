@@ -1,10 +1,10 @@
 Howdy everyone! If you're interested in my projects, here are a few listed and pinned below to satisfy your curiosity.
 
 **👨‍💻 Brief Project Descriptions:**
+- **Coastal Glo Mobile 🔫**
+  - This is an [active](https://coastal-glo-mobile.vercel.app/) **Next.js** website that is built for a business called Coastal Glo Mobile. It displays information about the spray tanning business like their tools used, services, FAQ, picture gallery, and a tab describing the business and its history. It uses an external service to request/book an appointment through GlossGenius. This website is responsive to device screens.
 - **Risk Optometric Associates 🩺**
   - This is an [active](https://www.nceyedocs.com/) **Next.js** website that was built for a family business called Risk Optometric Associates. It displays general information about locations, doctors, and office hours. It includes a page dedicated to providing access to leave a Google review. This website is responsive to device screens and default system colors for dark mode and light mode. This was my first project built with Next.js
-- **Coastal Glo Mobile 🔫** [In Development]
-  - This is a **Next.js** website that is being built for a business called Coastal Glo Mobile. It displays information about the spray tanning business like their tools used, services, FAQ, picture gallery, and a tab describing the business and its history. It uses an integration to request/book an appointment through Square. This website is responsive to device screens.
 - **Peak 🏃‍♂️** [In Development]
   - Peak is a comprehensive fitness tracking app tailored for fitness professionals. It is build with **Flutter**. It offers robust tools for tracking workouts, meals, and various health metrics. With its intuitive dashboards, Peak empowers users to analyze and visualize their fitness journey effectively.
 - **Chess App ♟️**
